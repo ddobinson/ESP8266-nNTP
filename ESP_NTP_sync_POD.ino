@@ -1,8 +1,4 @@
-/********************
-- www.geekstips.com
-- Arduino Time Sync from NTP Server using ESP8266 WiFi module 
-- Arduino code example
- ********************/
+
 
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
